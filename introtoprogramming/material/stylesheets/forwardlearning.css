@@ -1,0 +1,29 @@
+@import url("palo.css");
+/* ===== Material Design ===== */
+
+/* === Forward Learning Color Scheme === */
+:root > * 
+{
+
+/*** Primary colors ***/
+  --md-primary-fg-color:        #45c3d2; 
+  --md-primary-fg-color--light: #80f6ff; 
+  --md-primary-fg-color--dark:  #0092a1; 
+
+/*** ends ***/
+
+/**** Accent colors ****
+  --md-accent-fg-color: #00c753;
+  --md-accent-fg-color--transparent: rgba(0,199,83,0.1);
+  --md-accent-bg-color: #fff;
+  --md-accent-bg-color--light: hsla(0,0%,100%,0.7);
+
+/**** Accent colors ****/
+  --md-accent-fg-color: #f68e1e;
+  --md-accent-fg-color--transparent: rgba(246,142,30,0.1);
+  --md-accent-bg-color: #fff;
+  --md-accent-bg-color--light: hsla(0,0%,100%,0.7);  
+}
+/*** ends ***/
+ 
+/* === ends === */

@@ -1,0 +1,17 @@
+/* === Palo.ooo Brand === */
+
+/* Animated heart for footers */
+#madewithlove {
+  animation: heart 1000ms infinite;
+}
+ @keyframes heart {
+  0%, 40%, 80%, 100% {
+    transform: scale(1);
+  }
+  20%, 60% {
+    transform: scale(1.15);
+  }
+}
+/* This animation ends here */
+
+/* === ends === */
